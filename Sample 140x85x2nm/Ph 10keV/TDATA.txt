@@ -1,0 +1,66 @@
+====== P (20) into SiO2+SOI+BOX+Si-Substrat     =======
+        SRIM-2013.00
+=======================================
+      Data  of  TRIM  Calculation      
+=======================================
+--------------------------------------------------------------------
+    Recoil/Damage Calculations made with Kinchin-Pease Estimates    
+--------------------------------------------------------------------
+Ion =  P (15)   Ion Mass= 030.9740
+Energy  = 1000000.E-05 keV
+Ion Angle to Surface = 7 degrees
+============= TARGET MATERIAL ======================================
+  Layer # 1 - SiO2
+  Layer # 1 - Bottom Depth=     2.E+01 A
+  Layer # 1- Density = 6.975E22 atoms/cm3 = 2.32 g/cm3
+  Layer # 1-  O = 66.6 Atomic Percent = 53.2 Mass Percent
+  Layer # 1- Si = 33.3 Atomic Percent = 46.7 Mass Percent
+====================================================================
+  Layer # 2 - SOI
+  Layer # 2 - Bottom Depth=     9.E+02 A
+  Layer # 2- Density = 4.976E22 atoms/cm3 = 2.321 g/cm3
+  Layer # 2- Si = 100  Atomic Percent = 100  Mass Percent
+====================================================================
+  Layer # 3 - BOX
+  Layer # 3 - Bottom Depth=     2.E+03 A
+  Layer # 3- Density = 6.975E22 atoms/cm3 = 2.32 g/cm3
+  Layer # 3-  O = 66.6 Atomic Percent = 53.2 Mass Percent
+  Layer # 3- Si = 33.3 Atomic Percent = 46.7 Mass Percent
+====================================================================
+  Layer # 4 - Si-Substrat
+  Layer # 4 - Bottom Depth=     7.E+06 A
+  Layer # 4- Density = 4.974E22 atoms/cm3 = 2.32 g/cm3
+  Layer # 4- Si = 100  Atomic Percent = 100  Mass Percent
+====================================================================
+Target energies for target atom =  O
+    Displacement = 28 eV, Binding = 3 eV, Surface = 2 eV
+Target energies for target atom = Si
+    Displacement = 15 eV, Binding = 2 eV, Surface = 4.7 eV
+Target energies for target atom = Si
+    Displacement = 15 eV, Binding = 2 eV, Surface = 4.7 eV
+Target energies for target atom =  O
+    Displacement = 28 eV, Binding = 3 eV, Surface = 2 eV
+Target energies for target atom = Si
+    Displacement = 15 eV, Binding = 2 eV, Surface = 4.7 eV
+Target energies for target atom = Si
+    Displacement = 15 eV, Binding = 2 eV, Surface = 4.7 eV
+====================================================================
+Depth Range of Tabulated Data=  000000.E+00  -  350000.E-02  Angstroms
+====================================================================
+Total Ions calculated =  010000
+Average Range         =   17326.E-02 Angstroms
+Average Straggling    =   81182.E-03 Angstroms
+Average Vacancy/Ion   =   17222.E-02
+====================================================================
+Total Backscattered Ions=  13 
+Total Transmitted Ions  =  0 
+====================================================================
+See files SRIM Outputs\*.txt for tables :
+   TDATA.txt    -- Details of the calculation.
+   RANGE.txt    -- Final distribution of Ions/Recoils
+   VACANCY.txt  -- Distribution of Vacancies
+   IONIZ.txt    -- Distribution of Ionization
+   PHONON.txt   -- Distribution of Phonons
+   E2RECOIL.txt -- Energy transferred to recoils
+   NOVAC.txt    -- Replacement collisions
+   LATERAL.txt  -- Lateral Spread of Ions

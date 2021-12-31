@@ -1,0 +1,49 @@
+============================================================
+                 Saved DATA File for TRIM                   
+       Changes will Modify Continued TRIM Calculations      
+============================================================
+TRIM  Version  Number  /  Calculation Name 
+"SRIM-2013.00"    "P (1) into SiO2 - quartz (ICRU-245)+SOI+"
+ION DATA:At.Numb, Mass(amu), Energy (keV) , Angle to Target
+          15     30.9740  2.5000E+00    07.0
+ION NUMB: Current, Total, AutoSave, Transmitted, Backscattered 
+        10000 10000  1000    0    17
+CURRENT ION: Energy(eV),  Depth (X,Y,Z), Trajectory: Cos(X,Y,Z), Sin(X)
+5.46525E-01 5.27630E+01 1.45273E+00 5.33228E+01 -0.196074 -0.798062 -0.569783 0.980589
+ION AVGS:  Range,      Straggling,   Vacancies/Ion
+        6.1835E+01   3.0240E+01   4.3343E+01
+ION SUMS:  Range,Straggling,(Vacancies,Replacements,Interstitials)/Ang.
+6.17294E+005  4.72989E+007  4.22636E+009  4.25751E+011  1.23838E+004  0.00000E+000  0.00000E+000  0.00000E+000
+Ion Y-Z Lateral Data :  Range, Straggling, Kurtosis, Radial Dev.
+2.13453E+005  7.64261E+006  3.28225E+005  1.46596E+007
+3.28784E+001  1.96843E+001  2.13817E+001  2.76688E+001  3.01503E+000
+Cascade Type, FileFLAGS: Sputter, Ranges, Backscatter, Transmit, Collisions, Random Seeds(2)
+  1 0 1 0 0 0 1 802104528 1843639488
+TGT DATA: ------- Numb.Elements, Numb.Layers -----------------
+                       6           4
+TGT DATA: Atomic Numb, Mass,  Disp., Binding, Surf. Energy(eV)
+ 8            15.9990       28.00         3.00          2.00
+ 14           28.0860       15.00         2.00          4.70
+ 14           28.0860       15.00         2.00          4.70
+ 8            15.9990       28.00         3.00          2.00
+ 14           28.0860       15.00         2.00          4.70
+ 14           28.0860       15.00         2.00          4.70
+TGT Layers: Name      Width(A),    Depth(A), Density(g/cm3), Stoichiometry (Tgt.Atoms)
+    "SiO2 - quartz (ICRU-245)" 2.0000E+01 2.0000E+01    2.3212E+00 6.66667E-01 3.33333E-01 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00
+    "SOI" 8.5000E+02        8.7000E+02    2.3212E+00 0.00000E+00 0.00000E+00 1.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00
+    "SiO2 - quartz (ICRU-245)" 1.4000E+03 2.2700E+03    2.3212E+00 0.00000E+00 0.00000E+00 0.00000E+00 6.66667E-01 3.33333E-01 0.00000E+00
+    "Substrate" 6.7500E+06  6.7523E+06    2.3212E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 1.00000E+00
+Lowest E,  Ed(min)  (eV)
+ 1             15 
+Total Sputtered Atoms and Energy (eV)     (Target Atoms 1 - 6  )
+    0.000E+000 0.000E+000    0.000E+000 0.000E+000    0.000E+000 0.000E+000    0.000E+000 0.000E+000    0.000E+000 0.000E+000    0.000E+000 0.000E+000 
+Plot Display Start Depth (A), End Depth(A), Depth Resolution (Ang.)
+ 0             3500          35 
+Plotting Colors from TRIM.CFG
+ 16777215      255           6             16777215      255           16777215      16777215      16777215      255           8388608       65280         16776960 
+ 16777215  4227327  15982183  16744703  16777088  13159423  16760769  8421376  6422724  8388736  4755857  9408399  16777215 
+ 255  837122  16417654  12519886  13814035  9673727  16711680  65280  12615935  16716287  8700353  12566463  255 
+Collision Plots and Plot Positions
+ 1             0             0             0             0             200           0             0             0             162           0             0 
+Animated Collison Plot Position
+ 2865          2935          3005          3075 
